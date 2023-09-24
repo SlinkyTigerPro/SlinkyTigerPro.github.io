@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Jezzathegoat's Personal Page</title>
+    <style>
+        body {
+            background-color: black;
+            color: gold;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 36px;
+        }
+
+        p {
+            font-size: 24px;
+        }
+
+        /* Add more CSS styling as needed */
+
+    </style>
+</head>
+<body>
+    <h1>Welcome to Jezzathegoat's Personal Page</h1>
+    <p>Professional Interests: Football, Basketball, Clothing</p>
+    <!-- Add more content as you like -->
+</body>
+</html>
